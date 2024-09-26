@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bPdDRNxEJhipLLcse32Iej5HYUHp38KBlhxKFSOWWDziUK9Ee5jH2GCePh61Clb/9V/fsrZtBJ6Y0APVTPmSYg==",
+  "success": true,
+  "projectFilePath": "/Users/carlyn/Desktop/Programmeerimise algkursus (Julia Voronetskaja)/Week2/UserAgeValidation/UserGenderValidation.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlyn/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/carlyn/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/carlyn/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
